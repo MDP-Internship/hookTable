@@ -1,13 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { Center, GlobalStyle } from './rootStyle';
+import { Table } from './Table';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <div>
+    <GlobalStyle />
+    <Center>
+      <Table />
+    </Center>
+  </div>,
   document.getElementById('root')
 );
 
