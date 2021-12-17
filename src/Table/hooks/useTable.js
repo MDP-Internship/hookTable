@@ -1,6 +1,5 @@
 
-import useSortBy, { sortTypeEnum } from "./useSortBy";
-
+import useSortBy from "./useSortBy";
 
 export default function useTable({ columns = [], data = [], options = {} }) {
     
@@ -42,6 +41,7 @@ export default function useTable({ columns = [], data = [], options = {} }) {
         headers,
         body,
         sortToggle,
-        isSortToggle
+        isSortToggle,
+        sortState
     }
 }

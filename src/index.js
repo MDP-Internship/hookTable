@@ -8,7 +8,7 @@ import Table from './Table';
 const columns =[
   { 
     name: 'name',
-    text: 'Puan Sırası',
+    text: 'ad',
     filterable: false,
     editable: false,
     textAlign:'left',
@@ -20,7 +20,7 @@ const columns =[
   },
   {
     name: 'number',
-    text: 'Puan Sırası',
+    text: 'no',
     filterable: false,
     editable: false,
     // textAlign: 'left',
