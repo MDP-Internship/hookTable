@@ -1,14 +1,9 @@
 import React from 'react'
 import * as ST from '../../styledTable'
-export default function TableHead() {
+export default function TableHead({children}) {
     return (
         <ST.TableHead >
-            <ST.TableRow>
-                <ST.TableHeadCell colSpan={1}>Sender Components</ST.TableHeadCell>
-                <ST.TableCell>Sender Interface</ST.TableCell>
-                <ST.TableCell>Receiver Components</ST.TableCell>
-                <ST.TableCell>Receiver Interface</ST.TableCell>
-            </ST.TableRow>
+           {children}
         </ST.TableHead>
     )
 }
