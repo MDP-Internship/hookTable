@@ -9,7 +9,7 @@ export const sortTypeEnum = {
 
 export default function useSortBy(data) {
     const [initData, setInitData] = useState([])
-    const [sortToggle, setSortToggle] = useState(sortTypeEnum.RESET)
+    const [sortToggle, setSortToggle] = useState(sortTypeEnum.ASC)
 
     useEffect(() => {
         setInitData([...data])
@@ -37,29 +37,25 @@ export default function useSortBy(data) {
     const selectedSort = useCallback((name) => (type) => dispatch({ name, type }), [dispatch]);
 
     const isSortToggle = useCallback((name) => {
+        selectedSort(name)(sortToggle)
+        console.log(sortToggle,name)
         switch (sortToggle) {
-            case sortTypeEnum.RESET:
-                console.log('resettt')
-                setSortToggle(sortTypeEnum.DESC)
-                break;
             case sortTypeEnum.DESC:
-                console.log('desccc')
                 setSortToggle(sortTypeEnum.ASC)
                 break;
             case sortTypeEnum.ASC:
-                console.log('asccc')
                 setSortToggle(sortTypeEnum.RESET)
+                break;
+            case sortTypeEnum.RESET:
+                setSortToggle(sortTypeEnum.DESC)
                 break;
             default: throw Error()
         }
-        console.log(sortToggle)
-        return selectedSort(name)(sortToggle);
-
-    }, []);
+    }, [sortToggle]);
 
     return {
-        selectedSort,
         sortState,
-        isSortToggle
+        isSortToggle,
+        sortToggle
     }
 }

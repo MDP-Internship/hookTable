@@ -5,9 +5,9 @@ import useSortBy, { sortTypeEnum } from "./useSortBy";
 export default function useTable({ columns = [], data = [], options = {} }) {
     
     const {
-        selectedSort,
         sortState,
-        isSortToggle
+        isSortToggle,
+        sortToggle
     } = useSortBy(data);
 
     // {
@@ -27,7 +27,7 @@ export default function useTable({ columns = [], data = [], options = {} }) {
 
     const defaultHeadCellProps = (name, style) => ({
         textAlign: 'center',
-        onClick: () => selectedSort(name)(sortTypeEnum.DESC),
+        onClick: () => isSortToggle(name),
         ...style
     })
 
@@ -41,7 +41,7 @@ export default function useTable({ columns = [], data = [], options = {} }) {
     return {
         headers,
         body,
-        selectedSort,
+        sortToggle,
         isSortToggle
     }
 }
