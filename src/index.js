@@ -44,11 +44,11 @@ const data = [
 
   {
     name:'emre',
-    number:4
+    number:4,
   },
   {
     name:'fatih',
-    number:3
+    number:3,
   },
   {
     name:'ahmet',

@@ -1,7 +1,9 @@
 
+import { useEffect } from "react";
 import useSortBy from "./useSortBy";
 
 export default function useTable({ columns = [], data = [], options = {} }) {
+    
     
     const {
         sortState,
@@ -21,7 +23,6 @@ export default function useTable({ columns = [], data = [], options = {} }) {
     //       ...node
     //     ),
     // },
-
 
 
     const defaultHeadCellProps = (name, style) => ({

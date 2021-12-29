@@ -11,7 +11,7 @@ export default function Table({ columns, data, options }) {
         body,
         sortToggle,
         sortState
-    } = useTable({ columns, data, options }, useSortBy)
+    } = useTable({ columns, data, options })
 
     const sortIcon = (sortToggle) => (name) => {
         // console.log(sortState ,name)
