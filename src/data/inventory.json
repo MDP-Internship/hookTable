@@ -1,0 +1,2129 @@
+[
+    {
+      "id": 123,
+      "name": "new app",
+      "desc": "App One",
+      "version": "v1.2.0",
+      "platform_id": 7,
+      "location_id": 20,
+      "total_cost": 0,
+      "budget_owner": 1,
+      "user_id": 3,
+      "vendor_id": 4,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 3,
+      "it_quality": 4,
+      "time_value": 4,
+      "scope_id": 1,
+      "cat_id": 1,
+      "func_id": 7,
+      "managed_by": 7,
+      "statu": 2,
+      "user_base": 2,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-12-29T07:16:26.265Z",
+      "updatedAt": "2021-12-29T07:16:26.265Z",
+      "Tags": [
+        {
+          "id": 8,
+          "name": "Deneme1",
+          "company_id": 1,
+          "createdAt": "2021-05-28T07:18:48.377Z",
+          "updatedAt": "2021-05-28T07:18:48.377Z"
+        }
+      ],
+      "Processes": [
+        {
+          "id": 4,
+          "name": "Finans",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:32.594Z",
+          "updatedAt": "2021-05-24T12:13:32.594Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 15,
+          "name": "Mustafa Yiğit"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 10,
+          "name": "İrem Ozmen"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 4,
+          "name": "Buğra Okyay"
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "name": "App",
+      "desc": "Applicarion detail",
+      "version": "v1.2.0",
+      "platform_id": 7,
+      "location_id": 16,
+      "total_cost": 0,
+      "budget_owner": 6,
+      "user_id": 3,
+      "vendor_id": 5,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 4,
+      "it_quality": 3,
+      "time_value": 4,
+      "scope_id": 1,
+      "cat_id": 2,
+      "func_id": 7,
+      "managed_by": 6,
+      "statu": 2,
+      "user_base": 2,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-12-29T07:13:49.128Z",
+      "updatedAt": "2021-12-29T07:13:49.128Z",
+      "Tags": [
+        {
+          "id": 8,
+          "name": "Deneme1",
+          "company_id": 1,
+          "createdAt": "2021-05-28T07:18:48.377Z",
+          "updatedAt": "2021-05-28T07:18:48.377Z"
+        }
+      ],
+      "Processes": [
+        {
+          "id": 6,
+          "name": "İdari",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:44.127Z",
+          "updatedAt": "2021-05-24T12:13:44.127Z"
+        },
+        {
+          "id": 4,
+          "name": "Finans",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:32.594Z",
+          "updatedAt": "2021-05-24T12:13:32.594Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 16,
+          "name": "Sercan Çiçek"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 4,
+          "name": "Buğra Okyay"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 4,
+          "name": "Buğra Okyay"
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "name": "App-Y-441",
+      "desc": "App One Detail ",
+      "version": "v1.2.0",
+      "platform_id": 7,
+      "location_id": 17,
+      "total_cost": 0,
+      "budget_owner": 7,
+      "user_id": 3,
+      "vendor_id": 4,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 0,
+      "it_quality": 0,
+      "time_value": 0,
+      "scope_id": 1,
+      "cat_id": 1,
+      "func_id": 8,
+      "managed_by": 10,
+      "statu": 2,
+      "user_base": 2,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-12-27T15:11:48.441Z",
+      "updatedAt": "2021-12-27T15:11:48.441Z",
+      "Tags": [
+        {
+          "id": 9,
+          "name": "Deneme2",
+          "company_id": 1,
+          "createdAt": "2021-05-28T07:19:37.171Z",
+          "updatedAt": "2021-05-28T07:19:37.171Z"
+        }
+      ],
+      "Processes": [
+        {
+          "id": 4,
+          "name": "Finans",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:32.594Z",
+          "updatedAt": "2021-05-24T12:13:32.594Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 7,
+          "name": "Fatih Emre Kalem"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 14,
+          "name": "Fatih Kökce"
+        },
+        {
+          "id": 16,
+          "name": "Sercan Çiçek"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 7,
+          "name": "Fatih Emre Kalem"
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "name": "app-deneme-second",
+      "desc": "App-One",
+      "version": "v1.2.0",
+      "platform_id": 4,
+      "location_id": 19,
+      "total_cost": 0,
+      "budget_owner": 7,
+      "user_id": 3,
+      "vendor_id": 5,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 0,
+      "it_quality": 0,
+      "time_value": 0,
+      "scope_id": 1,
+      "cat_id": 1,
+      "func_id": 6,
+      "managed_by": 8,
+      "statu": 2,
+      "user_base": 2,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-12-27T13:32:13.425Z",
+      "updatedAt": "2021-12-27T13:32:13.425Z",
+      "Tags": [
+        {
+          "id": 9,
+          "name": "Deneme2",
+          "company_id": 1,
+          "createdAt": "2021-05-28T07:19:37.171Z",
+          "updatedAt": "2021-05-28T07:19:37.171Z"
+        }
+      ],
+      "Processes": [
+        {
+          "id": 5,
+          "name": "İnsan Kaynakları",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:39.852Z",
+          "updatedAt": "2021-05-24T12:13:39.852Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 4,
+          "name": "Buğra Okyay"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 14,
+          "name": "Fatih Kökce"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 10,
+          "name": "İrem Ozmen"
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "name": "App-Deneme-First",
+      "desc": "Application Detail",
+      "version": "v1.2.0",
+      "platform_id": 7,
+      "location_id": 20,
+      "total_cost": 0,
+      "budget_owner": 7,
+      "user_id": 3,
+      "vendor_id": 5,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 0,
+      "it_quality": 0,
+      "time_value": 0,
+      "scope_id": 1,
+      "cat_id": 1,
+      "func_id": 6,
+      "managed_by": 7,
+      "statu": 2,
+      "user_base": 2,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-12-27T13:27:35.064Z",
+      "updatedAt": "2021-12-27T13:27:35.064Z",
+      "Tags": [
+        {
+          "id": 9,
+          "name": "Deneme2",
+          "company_id": 1,
+          "createdAt": "2021-05-28T07:19:37.171Z",
+          "updatedAt": "2021-05-28T07:19:37.171Z"
+        }
+      ],
+      "Processes": [
+        {
+          "id": 6,
+          "name": "İdari",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:44.127Z",
+          "updatedAt": "2021-05-24T12:13:44.127Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 7,
+          "name": "Fatih Emre Kalem"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 13,
+          "name": "Erkan Başaran"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 15,
+          "name": "Mustafa Yiğit"
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "name": "Test-With-File",
+      "desc": "test",
+      "version": "v.1.0.0",
+      "platform_id": 6,
+      "location_id": 18,
+      "total_cost": 0,
+      "budget_owner": 1,
+      "user_id": 6,
+      "vendor_id": 4,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 0,
+      "it_quality": 0,
+      "time_value": 0,
+      "scope_id": 1,
+      "cat_id": 1,
+      "func_id": 1,
+      "managed_by": 8,
+      "statu": 2,
+      "user_base": 2,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-12-27T08:26:57.449Z",
+      "updatedAt": "2021-12-27T08:26:57.449Z",
+      "Tags": [
+        {
+          "id": 8,
+          "name": "Deneme1",
+          "company_id": 1,
+          "createdAt": "2021-05-28T07:18:48.377Z",
+          "updatedAt": "2021-05-28T07:18:48.377Z"
+        }
+      ],
+      "Processes": [
+        {
+          "id": 4,
+          "name": "Finans",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:32.594Z",
+          "updatedAt": "2021-05-24T12:13:32.594Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 13,
+          "name": "Erkan Başaran"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 3,
+          "name": "Yiğit Balalan"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 4,
+          "name": "Buğra Okyay"
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "name": "cost-deneme-101",
+      "desc": "App Detail",
+      "version": "v1.2.0",
+      "platform_id": 6,
+      "location_id": 20,
+      "total_cost": 0,
+      "budget_owner": 8,
+      "user_id": 3,
+      "vendor_id": 5,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 0,
+      "it_quality": 0,
+      "time_value": 0,
+      "scope_id": 1,
+      "cat_id": 1,
+      "func_id": 7,
+      "managed_by": 8,
+      "statu": 2,
+      "user_base": 2,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-12-27T07:25:41.437Z",
+      "updatedAt": "2021-12-27T07:25:41.437Z",
+      "Tags": [
+        {
+          "id": 9,
+          "name": "Deneme2",
+          "company_id": 1,
+          "createdAt": "2021-05-28T07:19:37.171Z",
+          "updatedAt": "2021-05-28T07:19:37.171Z"
+        }
+      ],
+      "Processes": [
+        {
+          "id": 5,
+          "name": "İnsan Kaynakları",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:39.852Z",
+          "updatedAt": "2021-05-24T12:13:39.852Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 3,
+          "name": "Yiğit Balalan"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 10,
+          "name": "İrem Ozmen"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 16,
+          "name": "Sercan Çiçek"
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "name": "Test-app-500",
+      "desc": "",
+      "version": "v1.2.1",
+      "platform_id": 6,
+      "location_id": 16,
+      "total_cost": 0,
+      "budget_owner": 1,
+      "user_id": 6,
+      "vendor_id": 1,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 0,
+      "it_quality": 0,
+      "time_value": 0,
+      "scope_id": 1,
+      "cat_id": 1,
+      "func_id": 1,
+      "managed_by": 1,
+      "statu": 0,
+      "user_base": 2,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2022-04-15T09:08:00.000Z",
+      "createdAt": "2021-12-24T08:57:51.412Z",
+      "updatedAt": "2021-12-24T10:09:40.244Z",
+      "Tags": [
+        {
+          "id": 8,
+          "name": "Deneme1",
+          "company_id": 1,
+          "createdAt": "2021-05-28T07:18:48.377Z",
+          "updatedAt": "2021-05-28T07:18:48.377Z"
+        }
+      ],
+      "Processes": [
+        {
+          "id": 4,
+          "name": "Finans",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:32.594Z",
+          "updatedAt": "2021-05-24T12:13:32.594Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 10,
+          "name": "İrem Ozmen"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 3,
+          "name": "Yiğit Balalan"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 4,
+          "name": "Buğra Okyay"
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "name": "App-With-Plan",
+      "desc": "test",
+      "version": "v1.2.1",
+      "platform_id": 6,
+      "location_id": 17,
+      "total_cost": 0,
+      "budget_owner": 1,
+      "user_id": 6,
+      "vendor_id": 1,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 0,
+      "it_quality": 0,
+      "time_value": 0,
+      "scope_id": 1,
+      "cat_id": 1,
+      "func_id": 1,
+      "managed_by": 1,
+      "statu": 2,
+      "user_base": 2,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-12-22T09:26:17.899Z",
+      "updatedAt": "2021-12-24T09:04:29.251Z",
+      "Tags": [
+        {
+          "id": 4,
+          "name": "string",
+          "company_id": 1,
+          "createdAt": "2021-05-11T11:37:42.080Z",
+          "updatedAt": "2021-05-11T11:37:42.080Z"
+        }
+      ],
+      "Processes": [
+        {
+          "id": 4,
+          "name": "Finans",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:32.594Z",
+          "updatedAt": "2021-05-24T12:13:32.594Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 10,
+          "name": "İrem Ozmen"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 3,
+          "name": "Yiğit Balalan"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 4,
+          "name": "Buğra Okyay"
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "name": "Test-With-Cost",
+      "desc": "",
+      "version": "v.1.0.0",
+      "platform_id": 6,
+      "location_id": 16,
+      "total_cost": 0,
+      "budget_owner": 8,
+      "user_id": 6,
+      "vendor_id": 4,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 0,
+      "it_quality": 0,
+      "time_value": 0,
+      "scope_id": 1,
+      "cat_id": 1,
+      "func_id": 1,
+      "managed_by": 10,
+      "statu": 2,
+      "user_base": 2,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-12-21T11:26:54.167Z",
+      "updatedAt": "2021-12-21T11:26:54.167Z",
+      "Tags": [
+        {
+          "id": 7,
+          "name": "inventory",
+          "company_id": 1,
+          "createdAt": "2021-05-24T12:31:02.947Z",
+          "updatedAt": "2021-05-24T12:31:02.947Z"
+        }
+      ],
+      "Processes": [
+        {
+          "id": 4,
+          "name": "Finans",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:32.594Z",
+          "updatedAt": "2021-05-24T12:13:32.594Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 10,
+          "name": "İrem Ozmen"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 3,
+          "name": "Yiğit Balalan"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 4,
+          "name": "Buğra Okyay"
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "name": "Test-App",
+      "desc": "",
+      "version": "v.1.0.0",
+      "platform_id": 6,
+      "location_id": 16,
+      "total_cost": 0,
+      "budget_owner": 1,
+      "user_id": 6,
+      "vendor_id": 1,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 0,
+      "it_quality": 0,
+      "time_value": 0,
+      "scope_id": 1,
+      "cat_id": 1,
+      "func_id": 6,
+      "managed_by": 1,
+      "statu": 2,
+      "user_base": 3,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-12-16T14:52:19.655Z",
+      "updatedAt": "2021-12-16T14:52:19.655Z",
+      "Tags": [],
+      "Processes": [
+        {
+          "id": 5,
+          "name": "İnsan Kaynakları",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:39.852Z",
+          "updatedAt": "2021-05-24T12:13:39.852Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 10,
+          "name": "İrem Ozmen"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 3,
+          "name": "Yiğit Balalan"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 10,
+          "name": "İrem Ozmen"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "name": "StatuDeneme",
+      "desc": "",
+      "version": "v.1.0.0",
+      "platform_id": 6,
+      "location_id": 16,
+      "total_cost": 0,
+      "budget_owner": 1,
+      "user_id": 6,
+      "vendor_id": 1,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 0,
+      "it_quality": 0,
+      "time_value": 0,
+      "scope_id": 1,
+      "cat_id": 1,
+      "func_id": 1,
+      "managed_by": 6,
+      "statu": 2,
+      "user_base": 2,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-12-16T12:42:29.183Z",
+      "updatedAt": "2021-12-16T12:42:29.183Z",
+      "Tags": [
+        {
+          "id": 7,
+          "name": "inventory",
+          "company_id": 1,
+          "createdAt": "2021-05-24T12:31:02.947Z",
+          "updatedAt": "2021-05-24T12:31:02.947Z"
+        }
+      ],
+      "Processes": [
+        {
+          "id": 4,
+          "name": "Finans",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:32.594Z",
+          "updatedAt": "2021-05-24T12:13:32.594Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 10,
+          "name": "İrem Ozmen"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 3,
+          "name": "Yiğit Balalan"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 4,
+          "name": "Buğra Okyay"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "name": "App-one",
+      "desc": "App Detail",
+      "version": "v1.2.0",
+      "platform_id": 4,
+      "location_id": 21,
+      "total_cost": 0,
+      "budget_owner": 1,
+      "user_id": 3,
+      "vendor_id": 4,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 4,
+      "it_quality": 3,
+      "time_value": 4,
+      "scope_id": 1,
+      "cat_id": 1,
+      "func_id": 1,
+      "managed_by": 1,
+      "statu": 2,
+      "user_base": 2,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-12-13T08:58:28.859Z",
+      "updatedAt": "2021-12-13T08:58:28.859Z",
+      "Tags": [
+        {
+          "id": 10,
+          "name": "jhg",
+          "company_id": 1,
+          "createdAt": "2021-06-11T11:14:04.990Z",
+          "updatedAt": "2021-06-11T11:14:04.990Z"
+        }
+      ],
+      "Processes": [
+        {
+          "id": 4,
+          "name": "Finans",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:32.594Z",
+          "updatedAt": "2021-05-24T12:13:32.594Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 17,
+          "name": "Betül Üsküdar"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 10,
+          "name": "İrem Ozmen"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 4,
+          "name": "Buğra Okyay"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "name": "test-50",
+      "desc": "test",
+      "version": "v.1.0.0",
+      "platform_id": 6,
+      "location_id": 16,
+      "total_cost": 0,
+      "budget_owner": 8,
+      "user_id": 6,
+      "vendor_id": 1,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 0,
+      "it_quality": 0,
+      "time_value": 0,
+      "scope_id": 1,
+      "cat_id": 1,
+      "func_id": 1,
+      "managed_by": 7,
+      "statu": 2,
+      "user_base": 2,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-12-10T13:56:44.118Z",
+      "updatedAt": "2021-12-10T13:56:44.118Z",
+      "Tags": [
+        {
+          "id": 10,
+          "name": "jhg",
+          "company_id": 1,
+          "createdAt": "2021-06-11T11:14:04.990Z",
+          "updatedAt": "2021-06-11T11:14:04.990Z"
+        }
+      ],
+      "Processes": [
+        {
+          "id": 4,
+          "name": "Finans",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:32.594Z",
+          "updatedAt": "2021-05-24T12:13:32.594Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 3,
+          "name": "Yiğit Balalan"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 4,
+          "name": "Buğra Okyay"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 4,
+          "name": "Buğra Okyay"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "name": "TestDraft-2",
+      "desc": "test",
+      "version": "v.1.0.0",
+      "platform_id": 5,
+      "location_id": 19,
+      "total_cost": 0,
+      "budget_owner": 1,
+      "user_id": 6,
+      "vendor_id": 4,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 0,
+      "it_quality": 0,
+      "time_value": 0,
+      "scope_id": 1,
+      "cat_id": 1,
+      "func_id": 1,
+      "managed_by": 6,
+      "statu": 2,
+      "user_base": 2,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-12-10T13:52:28.599Z",
+      "updatedAt": "2021-12-10T13:52:28.599Z",
+      "Tags": [
+        {
+          "id": 4,
+          "name": "string",
+          "company_id": 1,
+          "createdAt": "2021-05-11T11:37:42.080Z",
+          "updatedAt": "2021-05-11T11:37:42.080Z"
+        }
+      ],
+      "Processes": [
+        {
+          "id": 4,
+          "name": "Finans",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:32.594Z",
+          "updatedAt": "2021-05-24T12:13:32.594Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 10,
+          "name": "İrem Ozmen"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 3,
+          "name": "Yiğit Balalan"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 19,
+          "name": "ApplicationApplication ServicesAsd"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "name": "Test-30",
+      "desc": "test draft with file",
+      "version": "v.1.0.0",
+      "platform_id": 6,
+      "location_id": 16,
+      "total_cost": 0,
+      "budget_owner": 6,
+      "user_id": 6,
+      "vendor_id": 1,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 0,
+      "it_quality": 0,
+      "time_value": 1,
+      "scope_id": 1,
+      "cat_id": 1,
+      "func_id": 1,
+      "managed_by": 1,
+      "statu": 2,
+      "user_base": 2,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-12-10T13:42:01.633Z",
+      "updatedAt": "2021-12-10T13:42:01.633Z",
+      "Tags": [
+        {
+          "id": 4,
+          "name": "string",
+          "company_id": 1,
+          "createdAt": "2021-05-11T11:37:42.080Z",
+          "updatedAt": "2021-05-11T11:37:42.080Z"
+        }
+      ],
+      "Processes": [
+        {
+          "id": 4,
+          "name": "Finans",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:32.594Z",
+          "updatedAt": "2021-05-24T12:13:32.594Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 10,
+          "name": "İrem Ozmen"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 3,
+          "name": "Yiğit Balalan"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 4,
+          "name": "Buğra Okyay"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "name": "TESTAPPDRAFT",
+      "desc": "TEST",
+      "version": "v.1.0.0",
+      "platform_id": 6,
+      "location_id": 22,
+      "total_cost": 0,
+      "budget_owner": 1,
+      "user_id": 6,
+      "vendor_id": 4,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 0,
+      "it_quality": 0,
+      "time_value": 0,
+      "scope_id": 1,
+      "cat_id": 1,
+      "func_id": 1,
+      "managed_by": 1,
+      "statu": 2,
+      "user_base": 2,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-12-09T13:53:24.072Z",
+      "updatedAt": "2021-12-10T10:31:40.580Z",
+      "Tags": [
+        {
+          "id": 4,
+          "name": "string",
+          "company_id": 1,
+          "createdAt": "2021-05-11T11:37:42.080Z",
+          "updatedAt": "2021-05-11T11:37:42.080Z"
+        }
+      ],
+      "Processes": [
+        {
+          "id": 4,
+          "name": "Finans",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:32.594Z",
+          "updatedAt": "2021-05-24T12:13:32.594Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 4,
+          "name": "Buğra Okyay"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 3,
+          "name": "Yiğit Balalan"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 13,
+          "name": "Erkan Başaran"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "name": "Test App 10",
+      "desc": "testa",
+      "version": "v.1.0.0",
+      "platform_id": 6,
+      "location_id": 16,
+      "total_cost": 0,
+      "budget_owner": 6,
+      "user_id": 6,
+      "vendor_id": 1,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 3.5,
+      "it_quality": 2.5,
+      "time_value": 3,
+      "scope_id": 1,
+      "cat_id": 2,
+      "func_id": 1,
+      "managed_by": 7,
+      "statu": 2,
+      "user_base": 2,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-12-09T13:19:20.776Z",
+      "updatedAt": "2021-12-09T13:19:20.776Z",
+      "Tags": [
+        {
+          "id": 12,
+          "name": "tag1",
+          "company_id": 1,
+          "createdAt": "2021-08-30T09:49:37.763Z",
+          "updatedAt": "2021-08-30T09:49:37.763Z"
+        }
+      ],
+      "Processes": [
+        {
+          "id": 4,
+          "name": "Finans",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:32.594Z",
+          "updatedAt": "2021-05-24T12:13:32.594Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 4,
+          "name": "Buğra Okyay"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 3,
+          "name": "Yiğit Balalan"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 10,
+          "name": "İrem Ozmen"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "name": "test4",
+      "desc": "test",
+      "version": "v.1.0.0",
+      "platform_id": 6,
+      "location_id": 17,
+      "total_cost": 0,
+      "budget_owner": 1,
+      "user_id": 6,
+      "vendor_id": 1,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 0,
+      "it_quality": 0,
+      "time_value": 0,
+      "scope_id": 1,
+      "cat_id": 1,
+      "func_id": 1,
+      "managed_by": 1,
+      "statu": 2,
+      "user_base": 2,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-12-09T13:15:32.470Z",
+      "updatedAt": "2021-12-09T13:15:32.470Z",
+      "Tags": [
+        {
+          "id": 8,
+          "name": "Deneme1",
+          "company_id": 1,
+          "createdAt": "2021-05-28T07:18:48.377Z",
+          "updatedAt": "2021-05-28T07:18:48.377Z"
+        }
+      ],
+      "Processes": [
+        {
+          "id": 4,
+          "name": "Finans",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:32.594Z",
+          "updatedAt": "2021-05-24T12:13:32.594Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 10,
+          "name": "İrem Ozmen"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 3,
+          "name": "Yiğit Balalan"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 4,
+          "name": "Buğra Okyay"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "name": "TestApp2",
+      "desc": "",
+      "version": "v1.2.1",
+      "platform_id": 6,
+      "location_id": 16,
+      "total_cost": 0,
+      "budget_owner": 8,
+      "user_id": 6,
+      "vendor_id": 1,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 0,
+      "it_quality": 0,
+      "time_value": 0,
+      "scope_id": 1,
+      "cat_id": 1,
+      "func_id": 1,
+      "managed_by": 10,
+      "statu": 2,
+      "user_base": 2,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-12-09T11:13:42.319Z",
+      "updatedAt": "2021-12-09T11:13:42.319Z",
+      "Tags": [],
+      "Processes": [
+        {
+          "id": 4,
+          "name": "Finans",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:32.594Z",
+          "updatedAt": "2021-05-24T12:13:32.594Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 4,
+          "name": "Buğra Okyay"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 10,
+          "name": "İrem Ozmen"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 3,
+          "name": "Yiğit Balalan"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "name": "App Name",
+      "desc": "Not necessary",
+      "version": "v1.2.0",
+      "platform_id": 6,
+      "location_id": 16,
+      "total_cost": 0,
+      "budget_owner": 6,
+      "user_id": 3,
+      "vendor_id": 1,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 0,
+      "it_quality": 0,
+      "time_value": 0,
+      "scope_id": 1,
+      "cat_id": 1,
+      "func_id": 1,
+      "managed_by": 6,
+      "statu": 2,
+      "user_base": 2,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-12-07T07:38:49.209Z",
+      "updatedAt": "2021-12-07T07:38:49.209Z",
+      "Tags": [],
+      "Processes": [
+        {
+          "id": 5,
+          "name": "İnsan Kaynakları",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:39.852Z",
+          "updatedAt": "2021-05-24T12:13:39.852Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 15,
+          "name": "Mustafa Yiğit"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 10,
+          "name": "İrem Ozmen"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 16,
+          "name": "Sercan Çiçek"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "name": "App-111",
+      "desc": "Application detail",
+      "version": "V1.2.0",
+      "platform_id": 7,
+      "location_id": 32,
+      "total_cost": 0,
+      "budget_owner": 6,
+      "user_id": 3,
+      "vendor_id": 4,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 0,
+      "it_quality": 0,
+      "time_value": 0,
+      "scope_id": 1,
+      "cat_id": 1,
+      "func_id": 6,
+      "managed_by": 6,
+      "statu": 2,
+      "user_base": 2,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-12-06T07:09:22.685Z",
+      "updatedAt": "2021-12-10T13:37:36.164Z",
+      "Tags": [
+        {
+          "id": 9,
+          "name": "Deneme2",
+          "company_id": 1,
+          "createdAt": "2021-05-28T07:19:37.171Z",
+          "updatedAt": "2021-05-28T07:19:37.171Z"
+        }
+      ],
+      "Processes": [
+        {
+          "id": 4,
+          "name": "Finans",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:32.594Z",
+          "updatedAt": "2021-05-24T12:13:32.594Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 15,
+          "name": "Mustafa Yiğit"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 10,
+          "name": "İrem Ozmen"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 14,
+          "name": "Fatih Kökce"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "name": "Costing Deneme 3",
+      "desc": "App detail",
+      "version": "v1.2.0",
+      "platform_id": 4,
+      "location_id": 19,
+      "total_cost": 0,
+      "budget_owner": 6,
+      "user_id": 3,
+      "vendor_id": 1,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 3.5,
+      "it_quality": 4,
+      "time_value": 4,
+      "scope_id": 1,
+      "cat_id": 1,
+      "func_id": null,
+      "managed_by": 6,
+      "statu": 2,
+      "user_base": 2,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-12-02T12:13:26.906Z",
+      "updatedAt": "2021-12-02T12:13:26.906Z",
+      "Tags": [
+        {
+          "id": 9,
+          "name": "Deneme2",
+          "company_id": 1,
+          "createdAt": "2021-05-28T07:19:37.171Z",
+          "updatedAt": "2021-05-28T07:19:37.171Z"
+        }
+      ],
+      "Processes": [
+        {
+          "id": 4,
+          "name": "Finans",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:32.594Z",
+          "updatedAt": "2021-05-24T12:13:32.594Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 16,
+          "name": "Sercan Çiçek"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 3,
+          "name": "Yiğit Balalan"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 17,
+          "name": "Betül Üsküdar"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "name": "App Cost Deneme",
+      "desc": "App detail",
+      "version": "v1.2.0",
+      "platform_id": 7,
+      "location_id": 22,
+      "total_cost": 0,
+      "budget_owner": 6,
+      "user_id": 3,
+      "vendor_id": 4,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 0,
+      "it_quality": 0,
+      "time_value": 0,
+      "scope_id": 1,
+      "cat_id": 1,
+      "func_id": null,
+      "managed_by": 6,
+      "statu": 2,
+      "user_base": 2,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-12-02T07:35:54.891Z",
+      "updatedAt": "2021-12-02T07:35:54.891Z",
+      "Tags": [
+        {
+          "id": 8,
+          "name": "Deneme1",
+          "company_id": 1,
+          "createdAt": "2021-05-28T07:18:48.377Z",
+          "updatedAt": "2021-05-28T07:18:48.377Z"
+        }
+      ],
+      "Processes": [
+        {
+          "id": 4,
+          "name": "Finans",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:32.594Z",
+          "updatedAt": "2021-05-24T12:13:32.594Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 7,
+          "name": "Fatih Emre Kalem"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 13,
+          "name": "Erkan Başaran"
+        },
+        {
+          "id": 16,
+          "name": "Sercan Çiçek"
+        },
+        {
+          "id": 4,
+          "name": "Buğra Okyay"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 15,
+          "name": "Mustafa Yiğit"
+        },
+        {
+          "id": 7,
+          "name": "Fatih Emre Kalem"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "name": "Cost Deneme-2",
+      "desc": "Note One",
+      "version": "Version-1",
+      "platform_id": 4,
+      "location_id": 20,
+      "total_cost": 0,
+      "budget_owner": 6,
+      "user_id": 3,
+      "vendor_id": 1,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 0,
+      "it_quality": 0,
+      "time_value": 0,
+      "scope_id": 1,
+      "cat_id": 1,
+      "func_id": null,
+      "managed_by": 6,
+      "statu": 2,
+      "user_base": 2,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-12-01T14:45:58.033Z",
+      "updatedAt": "2021-12-01T14:45:58.033Z",
+      "Tags": [
+        {
+          "id": 7,
+          "name": "inventory",
+          "company_id": 1,
+          "createdAt": "2021-05-24T12:31:02.947Z",
+          "updatedAt": "2021-05-24T12:31:02.947Z"
+        }
+      ],
+      "Processes": [
+        {
+          "id": 4,
+          "name": "Finans",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:32.594Z",
+          "updatedAt": "2021-05-24T12:13:32.594Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 17,
+          "name": "Betül Üsküdar"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 4,
+          "name": "Buğra Okyay"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 17,
+          "name": "Betül Üsküdar"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "name": "App-3",
+      "desc": "App Detail",
+      "version": "Sss-3",
+      "platform_id": 7,
+      "location_id": 16,
+      "total_cost": 0,
+      "budget_owner": 6,
+      "user_id": 3,
+      "vendor_id": 4,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 2.5,
+      "it_quality": 3.5,
+      "time_value": 2,
+      "scope_id": 1,
+      "cat_id": 1,
+      "func_id": null,
+      "managed_by": 7,
+      "statu": 2,
+      "user_base": 2,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-12-01T08:54:23.698Z",
+      "updatedAt": "2021-12-01T08:54:23.698Z",
+      "Tags": [
+        {
+          "id": 11,
+          "name": "deneme",
+          "company_id": 1,
+          "createdAt": "2021-08-30T09:49:37.763Z",
+          "updatedAt": "2021-08-30T09:49:37.763Z"
+        }
+      ],
+      "Processes": [
+        {
+          "id": 4,
+          "name": "Finans",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:32.594Z",
+          "updatedAt": "2021-05-24T12:13:32.594Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 17,
+          "name": "Betül Üsküdar"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 3,
+          "name": "Yiğit Balalan"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 4,
+          "name": "Buğra Okyay"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "name": "Deneme-1",
+      "desc": "Noone",
+      "version": "V1.213",
+      "platform_id": 7,
+      "location_id": 16,
+      "total_cost": 0,
+      "budget_owner": 1,
+      "user_id": 3,
+      "vendor_id": 1,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 0,
+      "it_quality": 0,
+      "time_value": 0,
+      "scope_id": 1,
+      "cat_id": 1,
+      "func_id": null,
+      "managed_by": 6,
+      "statu": 2,
+      "user_base": 2,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-11-30T12:36:07.167Z",
+      "updatedAt": "2021-11-30T12:36:07.167Z",
+      "Tags": [
+        {
+          "id": 11,
+          "name": "deneme",
+          "company_id": 1,
+          "createdAt": "2021-08-30T09:49:37.763Z",
+          "updatedAt": "2021-08-30T09:49:37.763Z"
+        }
+      ],
+      "Processes": [
+        {
+          "id": 4,
+          "name": "Finans",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:32.594Z",
+          "updatedAt": "2021-05-24T12:13:32.594Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 16,
+          "name": "Sercan Çiçek"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 15,
+          "name": "Mustafa Yiğit"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 13,
+          "name": "Erkan Başaran"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "name": "App One",
+      "desc": "Application Detail",
+      "version": "v1.2.0",
+      "platform_id": 4,
+      "location_id": 16,
+      "total_cost": 0,
+      "budget_owner": 6,
+      "user_id": 3,
+      "vendor_id": 4,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 0,
+      "it_quality": 0,
+      "time_value": 0,
+      "scope_id": 1,
+      "cat_id": 1,
+      "func_id": null,
+      "managed_by": 6,
+      "statu": 2,
+      "user_base": 2,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-11-30T12:35:14.330Z",
+      "updatedAt": "2021-11-30T12:35:14.330Z",
+      "Tags": [
+        {
+          "id": 9,
+          "name": "Deneme2",
+          "company_id": 1,
+          "createdAt": "2021-05-28T07:19:37.171Z",
+          "updatedAt": "2021-05-28T07:19:37.171Z"
+        }
+      ],
+      "Processes": [
+        {
+          "id": 4,
+          "name": "Finans",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:32.594Z",
+          "updatedAt": "2021-05-24T12:13:32.594Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 15,
+          "name": "Mustafa Yiğit"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 4,
+          "name": "Buğra Okyay"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 15,
+          "name": "Mustafa Yiğit"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "name": "Cost Deneme",
+      "desc": "Note One",
+      "version": "v1.2.0",
+      "platform_id": 6,
+      "location_id": 21,
+      "total_cost": 0,
+      "budget_owner": 1,
+      "user_id": 3,
+      "vendor_id": 4,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 0,
+      "it_quality": 0,
+      "time_value": 0,
+      "scope_id": 1,
+      "cat_id": 1,
+      "func_id": null,
+      "managed_by": 1,
+      "statu": 2,
+      "user_base": 2,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-11-30T10:21:04.092Z",
+      "updatedAt": "2021-11-30T10:21:04.092Z",
+      "Tags": [
+        {
+          "id": 8,
+          "name": "Deneme1",
+          "company_id": 1,
+          "createdAt": "2021-05-28T07:18:48.377Z",
+          "updatedAt": "2021-05-28T07:18:48.377Z"
+        }
+      ],
+      "Processes": [
+        {
+          "id": 4,
+          "name": "Finans",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:32.594Z",
+          "updatedAt": "2021-05-24T12:13:32.594Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 16,
+          "name": "Sercan Çiçek"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 16,
+          "name": "Sercan Çiçek"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 15,
+          "name": "Mustafa Yiğit"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "name": "New Cost",
+      "desc": "details not used",
+      "version": "v1.2.0",
+      "platform_id": 4,
+      "location_id": 21,
+      "total_cost": 0,
+      "budget_owner": 6,
+      "user_id": 3,
+      "vendor_id": 4,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 0,
+      "it_quality": 0,
+      "time_value": 0,
+      "scope_id": 1,
+      "cat_id": 1,
+      "func_id": null,
+      "managed_by": 6,
+      "statu": 2,
+      "user_base": 2,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-11-29T07:05:58.836Z",
+      "updatedAt": "2021-11-29T07:05:58.836Z",
+      "Tags": [
+        {
+          "id": 4,
+          "name": "string",
+          "company_id": 1,
+          "createdAt": "2021-05-11T11:37:42.080Z",
+          "updatedAt": "2021-05-11T11:37:42.080Z"
+        }
+      ],
+      "Processes": [
+        {
+          "id": 5,
+          "name": "İnsan Kaynakları",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:39.852Z",
+          "updatedAt": "2021-05-24T12:13:39.852Z"
+        },
+        {
+          "id": 4,
+          "name": "Finans",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:32.594Z",
+          "updatedAt": "2021-05-24T12:13:32.594Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 17,
+          "name": "Betül Üsküdar"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 3,
+          "name": "Yiğit Balalan"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 17,
+          "name": "Betül Üsküdar"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Test-App-2",
+      "desc": "test-app-2\n",
+      "version": "v1.2.1",
+      "platform_id": 7,
+      "location_id": 4225,
+      "total_cost": 0,
+      "budget_owner": 1,
+      "user_id": 6,
+      "vendor_id": 1,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 4,
+      "it_quality": 2.5,
+      "time_value": 3,
+      "scope_id": 1,
+      "cat_id": 2,
+      "func_id": null,
+      "managed_by": 7,
+      "statu": 2,
+      "user_base": 3,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-11-26T10:05:56.301Z",
+      "updatedAt": "2021-11-26T16:48:48.245Z",
+      "Tags": [
+        {
+          "id": 4,
+          "name": "string",
+          "company_id": 1,
+          "createdAt": "2021-05-11T11:37:42.080Z",
+          "updatedAt": "2021-05-11T11:37:42.080Z"
+        },
+        {
+          "id": 7,
+          "name": "inventory",
+          "company_id": 1,
+          "createdAt": "2021-05-24T12:31:02.947Z",
+          "updatedAt": "2021-05-24T12:31:02.947Z"
+        }
+      ],
+      "Processes": [
+        {
+          "id": 5,
+          "name": "İnsan Kaynakları",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:39.852Z",
+          "updatedAt": "2021-05-24T12:13:39.852Z"
+        },
+        {
+          "id": 7,
+          "name": "Genel",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:49.178Z",
+          "updatedAt": "2021-05-24T12:13:49.178Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 10,
+          "name": "İrem Ozmen"
+        },
+        {
+          "id": 3,
+          "name": "Yiğit Balalan"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 4,
+          "name": "Buğra Okyay"
+        },
+        {
+          "id": 3,
+          "name": "Yiğit Balalan"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 4,
+          "name": "Buğra Okyay"
+        },
+        {
+          "id": 10,
+          "name": "İrem Ozmen"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Test-App",
+      "desc": "test app-update",
+      "version": "v.1.0.0",
+      "platform_id": 6,
+      "location_id": 4155,
+      "total_cost": 0,
+      "budget_owner": 5,
+      "user_id": 6,
+      "vendor_id": 1,
+      "isRemoved": 0,
+      "remove_desc": null,
+      "business_value": 5,
+      "it_quality": 3.5,
+      "time_value": 4,
+      "scope_id": 1,
+      "cat_id": 2,
+      "func_id": null,
+      "managed_by": 8,
+      "statu": 2,
+      "user_base": 2,
+      "business_critically": 0,
+      "cost_fitness": 0,
+      "statuStart": "2021-12-16T12:28:29.569Z",
+      "createdAt": "2021-11-26T10:03:36.826Z",
+      "updatedAt": "2021-11-26T11:26:09.654Z",
+      "Tags": [
+        {
+          "id": 6,
+          "name": "license",
+          "company_id": 1,
+          "createdAt": "2021-05-24T12:31:02.947Z",
+          "updatedAt": "2021-05-24T12:31:02.947Z"
+        }
+      ],
+      "Processes": [
+        {
+          "id": 5,
+          "name": "İnsan Kaynakları",
+          "company_id": 1,
+          "isRemoved": 0,
+          "createdAt": "2021-05-24T12:13:39.852Z",
+          "updatedAt": "2021-05-24T12:13:39.852Z"
+        }
+      ],
+      "TechnicOwners": [
+        {
+          "id": 10,
+          "name": "İrem Ozmen"
+        },
+        {
+          "id": 3,
+          "name": "Yiğit Balalan"
+        }
+      ],
+      "SysOwners": [
+        {
+          "id": 4,
+          "name": "Buğra Okyay"
+        },
+        {
+          "id": 3,
+          "name": "Yiğit Balalan"
+        }
+      ],
+      "BusinessOwners": [
+        {
+          "id": 3,
+          "name": "Yiğit Balalan"
+        },
+        {
+          "id": 4,
+          "name": "Buğra Okyay"
+        }
+      ]
+    }
+  ]
