@@ -15,5 +15,10 @@ export const Center = styled.div`
     display: flex;
     justify-content:center;
     align-items: center;
+    > div{
+        width: 90%;
+        margin: 0 auto;
+        overflow: auto;
+    }
 `;
 

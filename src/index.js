@@ -1,19 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import App from './App';
 import reportWebVitals from './reportWebVitals';
-import { Center, GlobalStyle } from './rootStyle';
-import Table from './Table';
+import {  GlobalStyle } from './rootStyle';
 
 ReactDOM.render(
-  <div>
+  <>
     <GlobalStyle />
-    <Center>
-    <div style={{width: '100%'}}>
-
-      <Table></Table>
-    </div>
-    </Center>
-  </div>,
+    <App></App>
+  </>,
   document.getElementById('root')
 );
 
