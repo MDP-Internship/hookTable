@@ -2,12 +2,16 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import reportWebVitals from './reportWebVitals';
 import { Center, GlobalStyle } from './rootStyle';
+import Table from './Table';
 
 ReactDOM.render(
   <div>
     <GlobalStyle />
     <Center>
-      Table
+    <div style={{width: '100%'}}>
+
+      <Table></Table>
+    </div>
     </Center>
   </div>,
   document.getElementById('root')
